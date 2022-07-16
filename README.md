@@ -10,4 +10,4 @@ yolov6n_onnx：onnx模型、测试图像、测试结果、测试demo脚本
 yolov6n_tensorRT：TensorRT版本模型、测试图像、测试结果、测试demo脚本、onnx模型、onnx2tensorRT脚本(tensorRT-7.2.3.4)
 
 #  测试结果
-![image]()
+![image](https://github.com/cqu20160901/yolov6n_caffe_onnx_tensorRT/blob/main/yolov6n_onnx/test_result_onnx.jpg)
